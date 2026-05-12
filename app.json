@@ -34,6 +34,12 @@
             "imageWidth": 76
           }
         }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Note_App to select photos for note header images."
+        }
       ]
     ],
     "experiments": {
